@@ -142,6 +142,7 @@ Na linha com nome e preço: `flex justify-between items-center`.
 Na descrição: `mt-2 text-stone-600 text-sm`.
 
 > 💡 Você estilizou **um** componente e os **seis** cards ficaram prontos. Guarde essa observação para a pergunta 4.
+feita
 
 ### Exercício 5 — Sobre nós (layout em duas colunas) · `Sobre.jsx`
 Na `<section id="sobre">`: fundo `stone-900`, texto `stone-100`.
