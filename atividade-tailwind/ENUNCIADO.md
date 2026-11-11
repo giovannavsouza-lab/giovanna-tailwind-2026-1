@@ -71,6 +71,8 @@ Na `<div>` principal (ela faz o papel do `<body>`):
 - Fonte sem serifa (`font-sans`) e `antialiased`.
 
 Teste: a página deve ficar levemente bege, com texto cinza-escuro.
+feita
+
 
 ### Exercício 2 — Barra de navegação (Flexbox) · `Header.jsx`
 No `<header>`:
@@ -88,6 +90,7 @@ Na lista de links (`<ul>`):
 - Cada link: `font-medium` e, no `hover`, cor `amber-700`. Adicione `transition-colors`.
 
 > 💡 Os links são gerados com `links.map(...)`. Repare que você escreve o `className` **uma única vez** e ele vale para todos os quatro links!
+feita
 
 ### Exercício 3 — Seção Hero (espaçamento, alinhamento e botões) · `Hero.jsx`
 Na `<section id="inicio">`:
@@ -108,6 +111,7 @@ Na `<div>` dos botões: `mt-8`, `flex`, `flex-col` no celular e `sm:flex-row` em
 **Botão secundário** ("Nossa história"):
 - Borda de 2px `amber-600`, texto `amber-700`, mesmo padding e arredondamento.
 - `hover:bg-amber-600 hover:text-white`.
+feita
 
 ### Exercício 4 — Cardápio (Grid + cards)
 
