@@ -111,7 +111,7 @@ Na `<div>` dos botões: `mt-8`, `flex`, `flex-col` no celular e `sm:flex-row` em
 **Botão secundário** ("Nossa história"):
 - Borda de 2px `amber-600`, texto `amber-700`, mesmo padding e arredondamento.
 - `hover:bg-amber-600 hover:text-white`.
-feita
+
 
 ### Exercício 4 — Cardápio (Grid + cards)
 
@@ -123,6 +123,7 @@ No título `<h2>`: `text-3xl font-bold text-center mb-10`.
 
 Na `<div>` que envolve os cards:
 - `grid` com **1 coluna** no celular, **2** a partir de `sm` e **3** a partir de `lg`. `gap-6`.
+feita
 
 **Parte 2 · `CardProduto.jsx`**
 
